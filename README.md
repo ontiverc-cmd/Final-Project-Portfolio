@@ -31,3 +31,25 @@
   - Does human interaction (or lackthereof) correlate with suicide rates? (kinda too harsh)
   - How do people who don't interact with many people justify their time spent alone (what do they do)?
   - Does city size/location correlate with amount of time adults spent with other people?
+
+
+# Week 11 Update:
+
+***Data Sources***
+- NAEP Reading Data: nationsreportcard.gov
+  - Actually took so long to find, but I eventually found this website
+  - Two datasets for 4th graders and 8th graders, spanning from 1992 to 2024
+  - Collected nationally via selected schools submitting scores for a yearly examination given to 4th, 8th, and 12th graders
+- I could not find good datasets for children's tv show trends, so I asked Claude.ai to generate one using IMBD data
+  - Asked to gather top children's tv shows through 1990-2024 and to categorize them by rating, year released/ended, genre, network, etc
+
+ **Questions**
+ - Can now answer what the top genres are, what ratings each show had, which shows are educational vs not, etc.
+ - Can also answer for trends in literacy rates, did covid affect scores, when was peak literacy, etc.
+ - Can try to correlate show type (educational, comedy, etc.) and scores
+
+Claude already kind of cleaned the dataset for the shows and the NAEP dataset was concise in what was included (just year and scores)
+Will be hard to come to hard conclusions because these datasets are not directly correlated and we cannot amount to exact measurements (time spend watching tv, each student doing what, other confounding factors).
+
+# Week 12 Update:
+
